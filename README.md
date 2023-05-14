@@ -13,3 +13,6 @@ Thank you for visiting!
 
 - Continuing the idea of nutritional transparency with dining options at UNC by creating an app for students to easily see the calories, nutrients and common allergens in the food they consume.
 
+
+## Connect with me here!
+![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
