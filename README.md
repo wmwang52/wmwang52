@@ -23,9 +23,8 @@ Thank you for visiting!
 </a>
 
 
-<p align="center">
+<p align="left">
   <a href="https://devpost.com/wmwang52"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Badge 1"></a>
-  <a href="link-2"><img src="https://img.shields.io/badge/Badge%202-Value%202-blue" alt="Badge 2"></a>
-  <a href="link-3"><img src="https://img.shields.io/badge/Badge%203-Value%203-yellow" alt="Badge 3"></a>
+
 </p>
 
