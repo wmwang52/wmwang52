@@ -16,7 +16,7 @@ Thank you for visiting!
 
 ## Connect with me here!
 <p align="left">
- <a href="linkedin.com/in/wmwang52"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge 1"></a>
+ <a href="https://www.linkedin.com/in/wmwang52/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge 1"></a>
 <a href="https://devpost.com/wmwang52"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Badge 2"></a>
 </p>
 
