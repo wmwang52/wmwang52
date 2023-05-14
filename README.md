@@ -16,4 +16,6 @@ Thank you for visiting!
 
 ## Connect with me here!
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({linkedin.com/in/wmwang52}
+<a href="linkedin.com/in/wmwang52" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+</a>
