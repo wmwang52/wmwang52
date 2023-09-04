@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 
-My name is William, and I'm a sophomore at the University of North Carolina at Chapel Hill studying Computer Science and Business Administration. I'm passionate about iOS development, Project management, and the wide range of disciplines I can use in Computer Science. I am always eager to learn new technologies and programming languages. 
+My name is William, and I'm a sophomore at the University of North Carolina at Chapel Hill studying Computer Science and Statistics. I'm passionate about iOS development, Project management, and the wide range of disciplines I can leverage Computer Science for better. I am always eager to learn new technologies and programming languages. 
 
 Feel free to explore some of my projects, and don't hesitate to contact me if you have any questions!
 
