@@ -3,9 +3,13 @@
 
 Welcome to my GitHub profile!
 
-My name is William, and I'm a sophomore at the University of North Carolina at Chapel Hill studying Computer Science and Statistics. I'm passionate about iOS development, Project management, and the wide range of disciplines I can leverage Computer Science for better. I am always eager to learn new technologies and programming languages. 
+Hey! I'm William, a sophomore double majoring in Business Administration and Computer Science with a minor in Statistics and Analytics at the University of North Carolina at Chapel Hill. Captivated by the dynamic fields of corporate strategy, financial analysis, and organizational leadership and fascinated by the unique challenges that stem from leveraging technology to drive innovation, I harbor a passion for applying the skills at the intersection of these evolving fields.
 
-Feel free to explore some of my projects, and don't hesitate to contact me if you have any questions!
+Outside the classroom, supplementing my cross-sector coursework, I'm primarily involved in App Team Carolina, a student-led software development organization at UNC. Within this organization, I've gained the privilege of serving as both Chief Financial Officer and an iOS developer, uniquely positioning me to build out the organization in its products and in itself. As I discover new ways to combine my passions, whether in Consulting, iOS Development, Product Management, or Start-Ups, I'm most importantly looking for opportunities that align with my values and interests.
+
+When I'm not in the classroom or at my computer, you can find me in the gym weightlifting, in the kitchen finding new dishes to cook, outside in nature taking photos, or exploring wherever my heart takes me. 
+
+Feel free to explore some of my projects, if you'd like to talk or even grab a cup of coffee, reach out to me at william_wang@kenan-flagler.unc.edu!
 
 Thank you for visiting!
  
