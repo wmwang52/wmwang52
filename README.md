@@ -1,8 +1,6 @@
-# Hey! I'm William
+# Hey! I'm Will
 
-Welcome to my GitHub profile.
-
-I'm William Wang — a Senior at the University of North Carolina at Chapel Hill, double majoring in **Business Administration (Entrepreneurship/Consulting)** and **Computer Science** with a minor in **Statistics and Analytics**.  
+I'm Will Wang — a Senior at the University of North Carolina at Chapel Hill, double majoring in **Business Administration (Entrepreneurship/Consulting)** and **Computer Science** with a minor in **Statistics and Analytics**.  
 
 I’m passionate about building solutions at the intersection of technology, business, and strategy — whether that’s developing scalable mobile applications, driving product innovation, or leading teams to deliver software with real-world impact. With experience in both corporate and startup settings, I enjoy bridging technical execution with strategic decision-making.  
 
