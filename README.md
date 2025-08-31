@@ -7,7 +7,7 @@ I’m passionate about building solutions at the intersection of technology, bus
 ---
 
 ## Current Projects
-- **Heelfuel (App Team Carolina)** – iOS app improving nutritional transparency in UNC dining halls (SwiftUI + Firebase + Python backend).  
+- **Heelfuel** – iOS app improving nutritional transparency in UNC dining halls (SwiftUI + Firebase + Python backend).  
 - **Scaling App Team Carolina** – leading UNC’s largest student-run software nonprofit to build apps that serve local organizations and communities.  
 
 ---
