@@ -1,16 +1,12 @@
-# hey, i'm will
+# Hey, i'm Will
 
-I  
-software engineer. building usable, intuitive products at the intersection of design and engineering.
+I: I'm currently a software engineer. building usable, intuitive products at the intersection of design and engineering.
 
-II  
-recently graduated from unc chapel hill with distinction, studying computer science and business administration.
+II: I recently graduated from unc chapel hill with distinction, studying computer science and business administration.
 
-III  
-i'm drawn to problems where strong engineering and real product judgment both matter. the kind of software people actually trust with their time.
+III: I'm drawn to problems where strong engineering and real product judgment both matter. The kind of software people actually trust with their time.
 
-IV  
-a year abroad in london & hong kong sharpened my eye for atmosphere, architecture, and everyday beauty. lasting obsession for light, place, and the still frame.
+IV: Spending a year abroad in london & hong kong sharpened my eye for atmosphere, architecture, and everyday beauty. Lasting obsession for light, place, and the still frame.
 
 ---
 
