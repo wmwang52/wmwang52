@@ -6,8 +6,6 @@ I recently graduated from UNC Chapel Hill with distinction, studying Computer Sc
 
 I'm drawn to problems where strong engineering and real product judgment both matter. The kind of software people actually trust with their time.
 
-A year abroad in London & Hong Kong sharpened my eye for atmosphere, architecture, and everyday beauty. A lasting obsession for light, place, and the still frame.
-
 ---
 
 ## Languages
