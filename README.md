@@ -2,7 +2,7 @@
 
 I'm a software engineer building usable, intuitive products at the intersection of design and engineering.
 
-I recently graduated from UNC Chapel Hill with distinction, studying Computer Science and Business Administration.
+I recently graduated from UNC Chapel Hill with highest distinction, studying Computer Science and Business Administration.
 
 I'm drawn to problems where strong engineering and real product judgment both matter. The kind of software people actually trust with their time.
 
